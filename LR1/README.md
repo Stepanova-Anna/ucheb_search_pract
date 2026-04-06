@@ -96,3 +96,5 @@
 
 ### Запуск программы
 
+![Mindmap](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR1/1.png)
+![Mindmap](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR1/2.png)
