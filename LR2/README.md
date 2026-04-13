@@ -136,6 +136,8 @@
 
 ### Запуск программы
 
+ [**Полный код**](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR2/sorting/main.py)
+
 **Ход**
 
 1. Генерация тестового массива заданного типа (случайный, отсортированный, обратный, почти отсортированный)
@@ -144,7 +146,10 @@
 4. Повторение 3 раза, выбор минимального времени
 5. Фиксация результатов в таблицу
 
-
+![Запуск](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR2/sorting/sorting_comparison.png)
+![Запуск](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR2/2.png)
+![Запуск](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR2/3.png)
+![Запуск](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR2/4.png)
 
 ---
 
