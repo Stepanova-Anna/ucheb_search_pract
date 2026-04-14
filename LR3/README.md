@@ -280,7 +280,7 @@
 
 ## Этап 4. Пилотный эксперимент
 
-[**Полный код**](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR2/sorting/main.py)
+[**Полный код**](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR3/main.py)
 
 ***Условия пилотного запуска***
 - Топология: линейная из 5 узлов
@@ -290,7 +290,7 @@
 
 **Результаты пилотного эксперимента**
 
-![Запуск](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR2/sorting/sorting_comparison.png)
+![Запуск](https://github.com/Stepanova-Anna/ucheb_search_pract/blob/main/LR3/1.png)
 
 ### Вывод по пилотному эксперименту
 - Задержка нашего алгоритма на **23.1%** ниже, чем у OSPF
