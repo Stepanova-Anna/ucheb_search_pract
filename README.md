@@ -3,3 +3,6 @@
 
 ## :link: [Лабораторная работа № 1](https://github.com/Stepanova-Anna/ucheb_search_pract/tree/main/LR1)
 ## :link: [Лабораторная работа № 2](https://github.com/Stepanova-Anna/ucheb_search_pract/tree/main/LR2)
+## :link: [Лабораторная работа № 2](https://github.com/Stepanova-Anna/ucheb_search_pract/tree/main/LR3)
+## :link: [Лабораторная работа № 2](https://github.com/Stepanova-Anna/ucheb_search_pract/tree/main/LR4)
+## :link: [Лабораторная работа № 2](https://github.com/Stepanova-Anna/ucheb_search_pract/tree/main/LR5)
